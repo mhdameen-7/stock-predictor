@@ -56,4 +56,4 @@ This project is an **AI-powered stock price prediction web application** built u
 Install the required libraries using pip:
 
 ```bash
-pip install streamlit numpy pandas yfinance matplotlib scikit-learn tensorflow ta
+pip install -r requirements.txt
